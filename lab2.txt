@@ -1,0 +1,5 @@
+2) 	a: grep '^..$' filename.txt
+	b: grep '^[A-Z]' filename.txt
+	c: grep '\.$' filename.txt
+	d: grep ' ' filename.txt
+	e: grep [0-9] source.txt>destination.txt
